@@ -1,0 +1,7 @@
+Author: Henry Software
+License: Public Domain (CC0)
+Origin: https://henrysoftware.itch.io/pixel-food
+
+64 16x16 food sprites.
+CC0: https://creativecommons.org/publicdomain/zero/1.0/
+Part of the Pixel Item! Pack linked below.

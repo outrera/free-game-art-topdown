@@ -1,0 +1,7 @@
+Author: Henry Software
+License: Public Domain (CC0)
+Origin: https://henrysoftware.itch.io/pixel-level-free
+
+One complete dungeon style as well as various props!
+CC0: https://creativecommons.org/publicdomain/zero/1.0/
+Part of the Pixel Level! Pack linked below.

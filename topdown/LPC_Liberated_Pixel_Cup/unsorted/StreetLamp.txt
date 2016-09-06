@@ -1,0 +1,10 @@
+author: Curt, Sharm, Hyptosis
+license: CC-BY 3.0
+origin: http://opengameart.org/content/lpc-street-lamp
+
+Made this for "Make it quick!" challenge.  Hopefully it is up to par for all of you.
+
+**Majority of the credit goes to Hyptosis and Sharm.  I used Hyptosis' lamp fixture and the pipe from Sharm's stove to make this.  
+
+Attribution Instructions: 
+Please attribute me (Curt), Sharm and Hyptosis. Thanks!

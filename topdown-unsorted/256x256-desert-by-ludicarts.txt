@@ -1,0 +1,23 @@
+Author: Franco Giachetti 'LudicArts' (https://www.ludicarts.com/)
+License: CC-BY
+Origin: http://www.ludicarts.com/free-videogame-asset-desert/
+        http://opengameart.org/content/free-desert-top-down-tileset
+
+For Adventure games, platformers, RPG and more.
+
+Tileset for make videogames, hight resolution : 256×256 pixels.
+This pack include:
+-17 terrain tiles
+-20 items and objects
+-PNG transparent format
+-Tiles size: 256×256 px
+-Spritesheet included
+
+ 
+
+See more game assets at: http://www.ludicarts.com
+
+ 
+
+Copyright/Attribution Notice: 
+http://www.ludicarts.com/free-videogame-asset-desert/

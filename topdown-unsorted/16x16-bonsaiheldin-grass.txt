@@ -1,0 +1,10 @@
+author: Bonsaiheldin (http://bonsaiheld.org)
+license: CC-BY-SA 3.0
+origin: http://opengameart.org/content/grass-tileset-16x16
+
+Woah... It took me some time, but i... I made my very first tileset! From scratch! Ever! A tileset! From me! Made with my OWN hands! :D
+
+The archive includes a sample map for the Tiled editor with predefined brushes, so you can easily play around with the tileset. You can download Tiled here: http://www.mapeditor.org/
+
+Copyright/Attribution Notice: 
+Bonsaiheldin | http://bonsaiheld.org

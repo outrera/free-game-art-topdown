@@ -1,0 +1,10 @@
+author: Jani Makinen 'gfx0' (http://3lv3n.deviantart.com)
+license: Public Domain (CC0)
+source: http://opengameart.org/content/rpg-tileset-32x32
+
+This is a tileset I've worked on as a hobby, I'm planning to improve and increase the tile set contents but for now it is limited to these tiles. I hope they might be useful for your projects :)
+
+You may use these tiles for any purpose, all of these are made by me originally. 
+
+Copyright/Attribution Notice: 
+I'd appreciate my nickname: gfx0 in your games credits if you use these and an email so I can check the project using this for fun.

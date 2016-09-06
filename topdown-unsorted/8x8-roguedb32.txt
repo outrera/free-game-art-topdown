@@ -1,0 +1,16 @@
+author: SpiderDave
+license: CC0 (Public Domain)
+origin: http://opengameart.org/content/roguedb32
+
+Tileset suitable for a "Roguelike" game or whatever you like.  Uses db32 palette, most are 8x8.
+
+A few things to note:
+
+* The gui box is made to be drawn using a rectangle on top of a filled rectangle, and the tiles drawn on the corners.  This way you can size it however you like.  I suggest you just save one 16x16 image for the corner and just rotate it to fit.
+
+* The fonts are not monospace, and some are the same height.  I included different versions of the font to allow for personal preference.  The way I recommend using the fonts is take the largest font for capitals, and smallest for lowercase.  Draw a shadow color version of it behind and 1 pixel to the left, then another 1 pixel below that one.  See the text "Test" in the font section for example.
+
+* I realize there isn't a lot of variety in items, monsters, settings, but hopefully you can get creative (palette swap the stone background for grass, etc.
+
+Copyright/Attribution Notice: 
+No attribution required. If you want to credit me anyway, credit me as "SpiderDave", and maybe link to this page or whatever you like.

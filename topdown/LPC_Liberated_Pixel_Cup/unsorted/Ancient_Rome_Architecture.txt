@@ -1,0 +1,22 @@
+author: Wolthera van Hövell tot Westerflier 'TheraHedwig' (http://wolthera.info)
+license: CC-BY-SA 3.0, GPL3
+origin: http://opengameart.org/content/lpc-compatible-ancient-roman-architecture
+
+Hi, I am a Krita dev, and I hate myself.
+
+Okay, so, this was the continuation of this effort: http://opengameart.org/content/lpc-compatible-ancient-greek-architecture
+
+Some of the things that makes Roman architecture stand out are arches, domes, aqueducts. The domes, I reasoned, would be so much easier to handle if we had diagonal roofs... with two elevations... So, I kinda burned myself out on that, especially as it took a while till I could create stereotypical Roman looking things this way.
+
+That said you can make some pretty kickass looking buildings with these diagonal roofs/diagonal walls, and it should be nice for getting that real European maze-city like feel.
+
+I started modifying the actual LPC tiles for this one as well, because the red brick housetiles have a so called 'egg-and-dart' border at the top which is quite classical. Unfortunatly, the red of the roofs and the red of the bricks clashes kinda, so I'd recommend recoloring them or someting. In general you might have to do some shuffling to get the tiles alligned more sensibly.
+
+The Aqueducts use the color scheme of the castle tiles as that felt a little bit more 'watery'.
+
+Screenshots also contain images from Daneeklu's tileset on top of the LPC base pack, but these are not included, they're just there to show compatibility.
+
+I think that's about it, tell me if I missed something.
+
+Copyright/Attribution Notice: 
+These files are licensed CC-BY-SA 3.0 and GPL 3.0, credits: Wolthera van Hövell tot Westerflier and Lanea Zimmerman (AKA Sharm) for the original file of the brick-based walls(house.png), these can be gotten here: http://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles

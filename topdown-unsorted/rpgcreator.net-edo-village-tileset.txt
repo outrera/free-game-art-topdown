@@ -1,0 +1,11 @@
+author: Samuel Ronce (http://webcreative5.net/)
+license: CC-BY
+source: http://yms.main.jp/page2/tile-retrotown01.html
+        http://yms.main.jp/page1/rule.html
+
+The materials in this site are royalty-free but not copyright free. 
+All the copyrights belong to dot art world. 
+When you distribute widely your software, you should include the name of this site in your credit title. 
+
+Site name　Pixel Art World or ドット絵世界
+URL　　　http://yms.main.jp

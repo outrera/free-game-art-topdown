@@ -1,0 +1,6 @@
+author: ukata (http://ukata.me https://devcarpet.net/deerportal/)
+license: CC-BY
+source: http://opengameart.org/content/characters-4-elements
+
+Animated pagan characters representing 4 classical elements: Water(blue), Earth(green), Fire(red), Air(yellow). Created for the game DeerPortal https://devcarpet.net/deerportal/
+https://github.com/deerportal/deerportal

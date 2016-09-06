@@ -1,0 +1,8 @@
+Author: CobraLad (http://opengameart.org/users/cobralad), Keith Karnage
+License: CC-BY-SA
+Origin: http://opengameart.org/content/post-apocalyptic-expansion
+
+This is an expansion of work done by CobraLad here.  It was intended to be used in a game for the 7DRL, but I never finished it.  It has expanded roads, fences, walls, as well as one character and one zombie getting some love.  The intent was to be able to break walls and fences, and have the proper tiles to fill in the space on any side.  It was a fun project, but I was too busy :(  The preview is a really really quick mock up.
+
+Copyright/Attribution Notice: 
+You should attribute CobraLad if he wants it. This is all his or based on his work.
