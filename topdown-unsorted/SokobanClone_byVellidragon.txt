@@ -1,0 +1,7 @@
+author: Tammy Spahn 'Vellidragon' (http://games.lanschilandia.com/)
+license: CC0 (Public Domain)
+origin: http://opengameart.org/content/sokoban-clone-tiles
+
+These tiles can be used in Sokoban-style crate-pushing puzzles or similar games. Includes 64x64 and 32x32 pixel versions of all the tiles, bird's eye and 3D perspective, a simple player character graphic in multiple colours and more.
+Copyright/Attribution Notice: 
+If you'd like to credit me, feel free to do so as Tammy Spahn or Vellidragon.
