@@ -1,12 +1,13 @@
-Author: Calciumtrice
+Author: Calciumtrice (https://twitter.com/calciumtrice http://calciumtrice.tumblr.com/)
 License: CC-BY 3.0
 Origin: http://calciumtrice.tumblr.com/
         http://opengameart.org/users/calciumtrice
+        http://opengameart.org/content/outdoor-tileset
 
-Dungeon tileset by Calciumtrice, usable under Creative Commons Attribution 3.0 license.
+Tileset by Calciumtrice, usable under Creative Commons Attribution 3.0 license.
  
 
-An original dungeon tileset suited for rogue-likes with 16x16 tiles and a wall height of 32 pixels.
+An original tileset suited for rogue-likes with 16x16 tiles and a wall height of 32 pixels.
 
 The tileset includes walls, ceilings, floors, doors and gates, furniture and containers, characters, monsters and items.
 
