@@ -1,0 +1,7 @@
+author: Ogrebane
+license: CC0 (Public Domain)
+origin: http://opengameart.org/content/16x16-tiles
+
+Includes blue and green water, blue and orange bricks (two variants each), lava tiles, trash, pipes, wooden floors/walls, and brown bricks with several variants.
+
+They're not perfect, but I'll probably be adding more variants to then at some point in the future, so I'll save the fine-tuning until then. :)

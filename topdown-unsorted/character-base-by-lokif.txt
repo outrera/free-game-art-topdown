@@ -1,0 +1,5 @@
+Author: LokiF
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/just-another-rpg-character-base
+
+I don't see myself using this any time in the future so I thought I'd upload it here. The animations are walking, weapon swing, and a bow attack. Frame size is 48x72 pixels.
