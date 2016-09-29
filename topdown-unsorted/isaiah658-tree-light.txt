@@ -1,0 +1,10 @@
+author: isaiah658
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/tree-16x16
+
+It's a generic tree made to fit a game that is using 16x16 graphics. The tree doesn't perfectly align with 16x16 tiles because that wasn't an issue for what I was planning to use it for. Thus you may need to change it slightly to fit your needs. The preview picture is sized up for easier viewing, but the download is the original size.
+
+I've included one that is light green and another that is dark green. It gives a nice contrast and makes forests look more lush with a variety of green. You could change the colors to also be orange, pink, etc for fall or make more shades of green.
+
+Copyright/Attribution Notice: 
+Credit to isaiah658 is not required but appreciated.

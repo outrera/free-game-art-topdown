@@ -1,0 +1,8 @@
+author: Ali Akbar Montazeri 'aliakbarm'
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/lights-up-spritesheet
+
+This art is used on game Light's Up for the Indie Game Ignite event but unluckily we are not qualified.
+
+Copyright/Attribution Notice: 
+Credit to Ali Akbar Montazeri from Exclusoft
