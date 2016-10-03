@@ -1,0 +1,11 @@
+Author: Alexander 'Kemono' (http://www.ascensiongamedev.com/community/profile/495-kem/)
+License: CC-BY-SA
+Origin: http://opengameart.org/content/monster-sprites
+        http://opengameart.org/content/overworld-tiles-1
+        http://opengameart.org/content/sewer-tiles
+        http://opengameart.org/content/forest-tiles-1
+        http://opengameart.org/content/town-tiles-0
+        http://opengameart.org/content/decoration-tiles
+        http://opengameart.org/content/ground-tiles-1
+
+A few sprites I made a while back to go with the tiles I've put up here.
