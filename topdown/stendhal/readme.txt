@@ -6,18 +6,132 @@ taken from stendhal-1.17.zip
 
 ---------
 
-Are you looking for adventure? Want to fight for riches?
-Develop yourself and your social standing? Meet new people?
-Do you want to be part of a brave new world?
+all files were removed due to copyright infringement found by Zane Kukta.
 
-Stendhal is a fully fledged multiplayer online adventures game (MMORPG) developed using the Arianne game development system.
 
-Stendhal features a new, rich and expanding world in which you can explore towns, buildings, plains, caves and dungeons.
-You will meet NPCs and acquire tasks and quests for valuable experience and cold hard cash.
+I have discovered over 60 RPG Maker 2003 edits or resizes and a few RPG maker XP edits. RPG maker sprites are only allowed in RPG maker engines that one has purchased. They are not opensource.
 
-Your character will develop and grow and with each new level up become stronger and better. With the money you acquire you can buy new items and improve your
-armour and weapons. And for the blood thirsty of you; satisfy your killing desires by roaming the world in search of evil monsters!
+https://github.com/saniv/free-game-art-topdown/tree/master/topdown/stendhal
 
-Stendhal is totally platform independent, written using Java 6 and the Java2D environment.
+You should honestly download the RPG Maker RTP packs and check for more. I will list the folder name and files. It is a RPG Maker 2003 edits unless I mention RPG Maker XP. All I ask is that you inform me of more edits.
 
-So what are you waiting for?! A whole new world awaits...
+/monsters/amazon:
+
+-amazoness_archer_commander
+-amazoness_commander
+
+npc/animal:
+
+-dog
+-Small_dog
+-kitten
+
+/monsters/animal:
+
+-Slimes (all of them)
+-Tiger
+-lion
+
+/monsters/farm_animals:
+
+-Chick
+-Cow
+-Bull
+-Ram
+-White horse
+-Horse
+-beaver (XP Edit)
+
+/monsters/flying_beast:
+
+-bluebird
+-carnary
+-pink_bird
+-green_bird
+-Peach_bird
+-red_brid
+-seagull
+
+All the birds are rmxp edits.
+
+/monsters/minotaur:
+
+-Mino_king
+-Minotaur
+
+/monsters/sheepmen:
+
+-All of them are edits
+
+/monsters/golem:
+
+-stone_golem
+
+/monsters/huge_animal:
+
+-chaos_green_dragonrider
+-chaos_red_dragonrider
+-red_dragon
+-Green_dragon
+-Black_death
+-Golden_Death
+-flying_golden_dragon
+-twin_head_dragon
+
+/monsters/human:
+
+-littlewizard
+-armored_leader
+-armorer_leader
+-armored_warrior
+-super_human
+
+/monsters/myhical_animal:
+
+-gashadokuro
+
+/monsters/troll:
+
+-red_troll
+-Troll
+
+/monsters/undead:
+
+-Ghost
+-Death
+
+/npc:
+
+-boynpc
+-chessplayernpc
+-Childnpc
+-deadmannpc
+-gardenernpc
+-man_000_npc
+-man_006_npc
+-oldmannpc
+-princessnpc
+-Mothernpc
+-armorleadernpc
+-Kingnpc
+-kingcozartnpc
+-woman_003_npc
+-youngkingnpc
+-stormtroopernpc
+
+/npc (Can be debated on:)
+
+Some features look like edits or resizes.
+
+-mithrilforgernpc (hat)
+-plinknpc (hair)
+
+Other: (two sprites on one spritesheet)
+
+-cat.png (big cat is okay, little cat is an edit.)
+
+monsters/ent:
+-dead_ent
+
+The dead ent is an edit of the brown tree here:
+http://www.hbgames.org/forums/viewtopic.php?t=78803&p=929850
