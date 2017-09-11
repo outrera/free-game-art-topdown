@@ -1,0 +1,12 @@
+author: Jerom
+license: CC-BY-SA 3.0
+source: https://opengameart.org/content/32x32-fantasy-tileset
+
+Various stuff: items, wepons, monsters, heroes, doors, walls, letters, HUD elements...
+
+- 8 shadesof dithering for shadows)
+- 24 tiles
+- 144 sprites
+- 45 icons (8x8 pixels)
+- 2 font numbers
+- 8 HUD borders (8x8 pixels)

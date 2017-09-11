@@ -1,0 +1,12 @@
+author: Jerom, PancInteractive
+license: CC-BY-SA 3.0
+source: https://opengameart.org/content/additions-to-32x32-fantasy-tileset
+
+I have long been a fan of PCG gaming and I really liked what Jerom did with his GB-paletted fantasy tileset. I have been planning on using it in a match-3 mobile game with fantasy elements, but I haven't gotten around to getting very far on it. It's still in the works, but I wanted to make sure I shared what I've added on thus far with everyone.
+
+I did some editing and added some additional terrain types, created new enemies, and created a player sprite layering system. I also created some new item sprites. Everything is, in the vast majority of cases, modifications of Jerom's already created sprites.
+
+I grayscaled the sprites here just so other folks would have more options as far as a palette is concerned. It would be easy enough to replicate the GB palette again, though. I am uploading the .xcf file for that purpose.
+
+Copyright/Attribution Notice: 
+Credit Jerom, because obviously.
