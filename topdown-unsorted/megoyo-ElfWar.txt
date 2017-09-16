@@ -1,0 +1,9 @@
+Author: megoyo
+License: CC0 (Public Domain)
+Origin: https://opengameart.org/content/elfwar-tiles
+
+VGA 320x200
+
+tiles 16x16 pixels
+Copyright/Attribution Notice: 
+megoyo

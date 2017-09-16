@@ -1,0 +1,14 @@
+Author: megoyo
+License: CC0 (Public Domain)
+Origin: https://opengameart.org/content/sprites-of-zoryx-project
+
+somes tiles of zoryx game project 
+
+16x16 pixels / 256 colors
+
+created in 1997 
+
+origin game project in video here
+
+Copyright/Attribution Notice: 
+free license, open license

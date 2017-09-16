@@ -1,0 +1,13 @@
+Author: megoyo
+License: CC0 (Public Domain)
+Origin: https://opengameart.org/content/tiles-grey-city
+
+Some tiles never used
+
+VGA 256 color (320x200)
+
+16x16 pixels
+
+ 
+Copyright/Attribution Notice: 
+open license

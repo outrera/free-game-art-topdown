@@ -1,0 +1,12 @@
+author: NoLogoGames (http://nologogames.com)
+license: CC-BY 3.0
+source: https://opengameart.org/content/various-pixel-art
+
+The spritesheet for my latest Ludum Dare entry (includes some sprites I never actually used in the final game).
+
+ Some fairly decent repeatable terrain tiles with vertical transitions, and some not quite so good player with animation and enemy sprites, as well as a few icons for things like UI and pickups.
+
+
+I'm releasing under CC-BY, but I do not require attribution if you are using this as part of a game, or if you are modifying these for your own purpose.
+
+If you are bundling these as any form of asset collection, you must state that these are available for free and link to their page on Open Game Art

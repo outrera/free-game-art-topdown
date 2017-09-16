@@ -1,0 +1,5 @@
+author: Oleg 'Morbidus'
+license: CC-BY 3.0
+source: https://opengameart.org/content/basic-soldiers
+
+A base template for a human's walking animations and three units made with that template - swordsman, spearman and archer.
