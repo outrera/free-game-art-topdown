@@ -1,0 +1,24 @@
+Author: Scrittl
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/spaceship-set-32x32px
+
+A small set of topdown, pixeled spaceships (grey).
+
+5 spaceships 32x32 pixel.
+
+1 bigger ship 128x128 pixel.
+
+archive contains .pdn files (Paint.net) with layers and .png files with transparent background.
+
+ 
+
+Update : Added: enemy_4.png - transparent background. (No preview image) for the "Fifteen Minutes" - Weekly challenge.
+
+Update2: Added another ship and updated the preview Image
+
+Update3:
+
+Atrus made colored versions based of these sprites. They are available here too:
+http://opengameart.org/content/colorize-enemies
+http://opengameart.org/content/colorized-boss-sprites
+

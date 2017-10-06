@@ -1,0 +1,12 @@
+Author: Luis Zuno (ansimuz.com)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/top-down-river-shooter-environment
+
+Hello Everyone,This month I decided to go for a "Top Down Shooter" theme. It's a popular genre amongts Beginners on Game Dev.
+
+Hope to see many games and prototypes dressed with this Pixel Art Asset.
+
+You can view the time lapse work process video on my youtube channel: https://www.youtube.com/watch?v=d6r2-6CKT70
+
+Copyright/Attribution Notice: 
+by ansimuz.com
