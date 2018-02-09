@@ -1,0 +1,21 @@
+Author: 0x72 (https://0x72.itch.io/)
+License: Public Domain (CC0)
+Origin: https://0x72.itch.io/16x16-dungeon-tileset
+
+Hi!
+
+You can use this tileset for whatever you like (CC-0).
+
+Credit is not necessary, but if you create something using this tileset I'd be happy to see your work (you can comment with a link).
+
+That being said, you can still credit me if you feel like :)
+
+- Robert
+
+Since there were questions, let me clarify:
+
+    you can use this tileset in both private and commercial projects
+    you can modify this tileset
+    you can distribute both modified and original work
+    you are not required to credit me, (although I'll appreciate if you do)
+    you are not required to post a link to your work to me, (although I'll appreciate if you do)

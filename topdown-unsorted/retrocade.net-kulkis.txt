@@ -1,0 +1,18 @@
+Author: https://retrocade.net
+License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode)
+Origin: https://retrocade.net/open-art/kulkis/
+
+This pack contains all the art from game Kulkis which is a sidescroller arcade game.
+
+    30 tiles
+    4 colored blocks with animation
+    Animated exit,
+    4 player sprites
+    Spikes sprite
+    Animated logo
+    Background
+    Button system slice9
+
+
+ 1. When crediting usage of this artwork use "Retrocade.net" and optionally the logo. If you need a higher resolution version of the logo contact me at maurycy@retrocade.net
+ 2. Short summary of the license is available here: https://creativecommons.org/licenses/by/4.0/

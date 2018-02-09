@@ -1,0 +1,43 @@
+Author: https://retrocade.net
+License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode)
+Origin: https://retrocade.net/open-art/rock-rush/
+
+This pack contains all the art from game Rock Rush which is a Boulder Dash clone. Art is pixelart, tile size is 12x12. The pack includes:
+
+    12 animated sprites
+    6 types of walls
+    Explosion particle
+    Background
+    Slice9 system images (button, window, tooltip)
+    Items
+    Logos
+    Explanations and examples
+
+Detailed breakdown:
+
+    Player sprite - standing (frame), running and holding item above (anim)
+    Emerald (bonus) - standing (frame), falling and collecting (anim);
+    Boulder - standing (frame) and rolling (anim);
+    Bomb - standing (frame) and falling/rolling (anim);
+    Blob (enemy) - animated;
+    Crystaler (enemy) - animated;
+    Amoeba (environment) - animated;
+    Slime (environment) - animated;
+    Explosion (particle) - animated;
+    Keys (bonus) - 4 colors, and triple-pack variant for each;
+    Exit - closed (frame) and opened (anim);
+    Dirt - 4-directional;
+    Walls - 4 types, two of which are 4-directional;
+    Magic wall - inactive (frame) and active (anim); two variants;
+    Doors - 4 colors, static;
+    NPCs - 3 different, animated NPCs;
+    Sign - static;
+    Items - 6 different items, static;
+    System - slice9 backgrounds for button, window andd tooltip;
+    Backgrounds - ingame and title screen;
+    Hud
+    Logos
+
+
+ 1. When crediting usage of this artwork use "Retrocade.net" and optionally the logo. If you need a higher resolution version of the logo contact me at maurycy@retrocade.net
+ 2. Short summary of the license is available here: https://creativecommons.org/licenses/by/4.0/

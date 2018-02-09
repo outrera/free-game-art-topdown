@@ -1,0 +1,15 @@
+author: ArMM1998
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/zelda-like-tilesets-and-sprites
+
+16x16 tilesets
+
+-Overworld tileset including castle, houses and some decoration
+
+-Cave tileset
+
+-Indoors tileset
+
+-Character with sword animation and character tamplet
+
+-Effects, objects and UI

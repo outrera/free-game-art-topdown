@@ -1,0 +1,12 @@
+Author: mieki256 (http://blawat2015.no-ip.com/~mieki256/ https://soundcloud.com/mieki256)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/sci-fi-shoot-em-up-object-images
+        https://opengameart.org/content/sci-fi-shoot-em-up-stage-data
+
+Sci-Fi Shoot 'em up object images.
+
+64x64, 48x48, 32,32, 96x96.
+
+Example:
+mieki256/love2d_stg_sample02: love2d sample. top view scroll shooting game.
+https://github.com/mieki256/love2d_stg_sample02

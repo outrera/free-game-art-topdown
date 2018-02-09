@@ -1,0 +1,26 @@
+Author: https://retrocade.net
+License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode)
+Origin: https://retrocade.net/open-art/galagian/
+
+
+This pack contains all the art from game Galagian which is a wave based space shooter. The art style is prerendered 3D models. This pack contains the following graphics:
+
+    15 enemy ships (including 1 animated enemy)
+    Bonus crystals
+    Explosion particle
+    Flame particle
+    Font used in the game (Goca Logotype Beta: Made & designed by Jonas Borneland Hansen "dafo")
+    Hud graphics
+    Styled numbers
+    Player sprite (5 frames) with shield sprite
+    Preloader images
+    Projectiles
+    Game background, game over and title screen
+    PSD source for achievement icons and preloader screen
+    Unused achievement icons
+    Unused animated asteroid (16 frames)
+    Unused 5 asteroids
+    Unused a bunch of projectiles
+    Unused 5 hires ships
+    Unused old backgrounds and logos
+    A couple of other small things

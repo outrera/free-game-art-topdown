@@ -1,0 +1,15 @@
+Author: Jose Victor 'JosephSeraph' (http://creative-joseraph.tumblr.com/)
+License: CC-BY
+Origin: https://opengameart.org/content/js-window-texture-pack-01
+
+I made this really quickly for my game (I'm using 02.png btw) and i thought it was neat enough to share. 6 textures to be cut and added to your low res menu, + a grayscale version so you can apply your own gradient on top! ~
+
+Free for use, just credit JosephSeraph! 
+Free to edit and redistribute as well so long as you keep this readme intact & credit me!
+--
+Please consider donating so I can keep creating resources!
+You can do so either by submitting a paypal donation to josephseraph@hotmail.com (sorry I can't provide a direct donation link as they seem to be all expiring really fast!)
+Or by supporting me on Patreon! https://www.patreon.com/JosephSeraph
+
+Thanks! <3
+If you make something with my resources, I'll love to take a look at it! :D 

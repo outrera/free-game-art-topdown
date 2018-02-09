@@ -1,0 +1,16 @@
+Author: https://retrocade.net
+License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode)
+Origin: https://retrocade.net/open-art/galaxus/
+
+  This pack contains all the art from Galaxus, a minimalist wave-based space shooter.
+    Logo
+    7 enemy ships
+    1 player ship
+    4 bullet graphics
+    12 shop icons
+    Explosion particle
+
+
+
+ 1. When crediting usage of this artwork use "Retrocade.net" and optionally the logo. If you need a higher resolution version of the logo contact me at maurycy@retrocade.net
+ 2. Short summary of the license is available here: https://creativecommons.org/licenses/by/4.0/
