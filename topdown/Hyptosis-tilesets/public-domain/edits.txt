@@ -1,0 +1,4 @@
+author: Daniel Harris "Hyptosis" (http://www.lorestrome.com/pixel_archive/main.htm), Zabin, AntumDeluge
+license: cc0 (Public Domain)
+origin: https://opengameart.org/content/statues-collection
+

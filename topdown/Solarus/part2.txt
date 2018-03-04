@@ -1,0 +1,22 @@
+Author: Diarandor <diarandor@gmail.com> (https://diarandor.deviantart.com/)
+License: CC-BY-SA 4.0
+Origin: https://opengameart.org/content/solarus-art-pack-2
+
+Ahoy there! This is my 2nd Art Pack, which contains all the art I made between July-18-2016 to November-12-2017. The art is free as in freedom, but you must respect the license and give me credit if you use it. If you do not understand the license, do not hesitate to ask.
+
+To give me credit, use the info below. Use my mail for Paypal donations.
+
+Author: Diarandor
+License: CC-BY-SA 4.0
+Mail: diarandor at gmail dot com
+
+Obvious remarks: If you use a MODIFIED version of this art, you still have to give me credit properly: indicate that the original art was made by me, and also indicate somehow which has been modified and give credit to secondary authors too (you can add/draw new labels to the images like "Edited/Modified by: blablabla"). You cannot mix it with other art whose license is incompatible with mine. If you find this art useful and make some money (or not), please, consider making a donation to support me.
+
+This art and subsequent versions of it are intended to be used by the Solarus Team in our projects with the Solarus engine, mainly in the project "Children of Solarus". Consider making donations to the Solarus Team too, to support us in the creation of free games. Donations for the Solarus Team can be done from the Solarus website: http://www.solarus-games.org/
+
+ Other useful links:
+Deviantart: https://diarandor.deviantart.com/
+Art Packs on Github: https://github.com/solarus-games/diarandor-art
+
+Copyright/Attribution Notice: 
+Author: Diarandor. License: CC-BY-SA 4.0. Mail: diarandor at gmail dot com
