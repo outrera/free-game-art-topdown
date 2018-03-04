@@ -1,0 +1,28 @@
+author: zookeeper, Zabin
+license: Public Domain (CC0)
+source: https://opengameart.org/content/the-battle-for-wesnoth-water-animation
+
+Here's a awesome tileable deep ocean/water animation. Included is the one made for The Battle for Wesnoth and one I threw together in 2 hours to work with my ZRPG tiles.
+
+Now here's a story to go with the lovely H2O.
+
+The Battle for Wesnoth is maybe the most polished up and feature complete FOSS game out there that I was lucky enough to discover back in 2008. Here's my BFW story.
+
+I downloaded it on the home computer and my dad ended up getting addicted to killing orcs on BFW. Ocassionally over the past decade my dad and I would update to the latest version and play new campaings checking out the new features. It was fun watching the game grow and share that fun with my dad.
+
+There's been 2 water animations made for BFW. This is the newest one made by zookeeper in 2015.
+
+https://forums.wesnoth.org/viewtopic.php?f=9&t=42941&sid=17cbcc0fdec16ed341c3cab809ba1894
+
+I contacted him a couple days ago and he said to consider his art public domain. Which is what I hoped he'd say and really makes me appreciate the FOSS community.
+
+Check out the ZRPG Tiles that I'm organizing using this water animation and Jetrel's beautiful art. 
+
+TODO:
+
+1. Include zookeeper's shallow water with this submission.
+
+2. Maybe be nice to give credit to his real name.
+
+Copyright/Attribution Notice: 
+Credit is not required but it would be nice for you to mention zookeeper and Zabin in your credits. Also if you use this I would LOVE to see it so send me a link or maybe a free download ;)

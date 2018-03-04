@@ -1,0 +1,28 @@
+author: See CREDITS-beach-desert.txt
+license: CC-BY-SA 3.0
+source: https://opengameart.org/content/zrpg-beach
+
+Special thanks goes to bluecarrot16 for the LPC Beach / Desert submission here https://opengameart.org/content/lpc-beach-desert
+
+That really helped me figure out how I wanted to make the transition from forest to beach.
+
+This is using mostly DB32.
+
+Here's links to all the art you might see in that preview.
+
+https://opengameart.org/content/zrpg-tiles
+
+https://opengameart.org/content/the-battle-for-wesnoth-water-animation
+
+https://opengameart.org/content/animated-ocean-tileset
+
+This is still WIP and so is the water animations.
+
+I've included an attribution diagram which I feel is necessary in properly crediting the original artists.
+
+TODO:
+
+1.Castus's need completely redone to match Modanung's style.
+
+Copyright/Attribution Notice: 
+See CREDITS-beach-desert.txt. You MUST credit all authors with the information in this file, and you must link back to this page on OpenGameArt.

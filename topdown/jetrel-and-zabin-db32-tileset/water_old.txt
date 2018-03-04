@@ -1,0 +1,16 @@
+author: Rhyging5, Zachariah Husiar 'Zabin'
+license: GPL 2.0
+source: https://opengameart.org/content/the-battle-for-wesnoth-old-water-animation-by-rhyging5
+
+This is my remix on Rhyging5's water animation for The Battle for Wesnoth.
+
+https://forums.wesnoth.org/viewtopic.php?f=9&t=28584&sid=f0062c727ebced1702db41150a855457
+
+This animation doesn't tile perfectly and because of that I upgraded to zookeeper's water animation.
+
+Here's the link to zookeeper's awesome water animation I just submitted to OGA.
+
+https://opengameart.org/content/the-battle-for-wesnoth-water-animation
+
+Copyright/Attribution Notice: 
+Please credit Zachariah Husiar aka (Zabin) and Rhyging5 and The Battle for Wesnoth.

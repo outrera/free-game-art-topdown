@@ -1,0 +1,22 @@
+author: Leonard Pabin, Zachariah Husiar 'Zabin', 
+license: CC-BY-SA 3.0, GPL 3.0
+source: https://opengameart.org/content/animated-ocean-tileset
+
+This is my derivative of Leonard Pabin's animated ocean tileset. Here's the original https://opengameart.org/content/whispers-of-avalon-animated-ocean-tileset
+
+Changes: Doubled the frames from 5 to 10. So it's a smoother running animation now. Added a shallow/deep effect and recolored it with my extended DB32 palette.
+
+I remixed this years ago so it's a little sloppy and could be better but I think it's a big upgrade from the original.
+
+It works perfect with my recoloration of zookeeper's BFW water animation. https://opengameart.org/content/the-battle-for-wesnoth-water-animation
+
+Take a look here to see a screenshot of how I used this with my ZRPG tiles  https://opengameart.org/sites/default/files/forum-attachments/ZRPG3.png
+
+The gif preview uses my remix of the old BFW water by Rhyging5. Which is available here https://opengameart.org/content/the-battle-for-wesnoth-old-water-animati...
+
+The gif preview also has some palm trees made by Leonard Pabin and Frode Lindeijer aka (Modanung) for The Mana World.
+
+I'm in the process of submitting all of this ZRPG stuff. So there's lots more comming soon.
+
+Copyright/Attribution Notice: 
+Please credit Leonard Pabin aka (Len) and Zachariah Husiar aka (Zabin). Also let me know if you use these as I'd love to see it used.
