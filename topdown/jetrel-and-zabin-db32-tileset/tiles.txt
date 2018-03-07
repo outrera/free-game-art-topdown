@@ -1,16 +1,18 @@
-author: Jetrel, Zabin
-license: Public Domain (CC0)
-source: https://opengameart.org/content/zrpg-tiles
+Author: Jetrel, Zabin
+License: CC-BY-SA 3.0, CC-BY-SA 4.0
+Origin: https://opengameart.org/content/zrpg-tiles
 
-Been busy this winter playing with expanding Jetrel's awesome RPG assets. Here's a link to where I post updates on the forums. https://opengameart.org/forumtopic/wip-zrpg-tiles-oga-remixed-jetrel-db3...
+"Yeah, so this was just brought to my attention by Zabin.
 
-This is a huge amount of art all licensed public domain CC0. Jetrel and I would love to be credited for this amazing pixel art but we want it to be as useful as possible to game developers. So we're not legally requiring it. 
+Initially I was actually a bit aghast, because I'd initially given him permission to merely study my work - not to redistribute it wholesale.  However, after chilling out a bit, I've decided that it'd be a colossal dick move to shut this down (when he's put this much work into extracting usable tiles, etc).
 
-This is still a WIP but there's alot of useful stuff here already that can be remixed and used in your own game. 
+So what I've decided to do is this:
 
-I plan to keep expanding this ZRPG Tileset collection. This is only about  a 1/3 a game's worth of art here. So there's a lot I have planned in my head but I am busy working a full time job. I made a patreon if anybody feels like motivating me though ;p 
+    These assets, and only these seen here, are released as CC-BY-SA.  Everything that I made (which is about 95% of this) I claim sole authorship on.
 
-https://www.patreon.com/Zabin
+But I'm not gonna shut down the party; he 'borrowed' this out of love, so let's not replace that with hate.  I strongly encourage people to not merely reuse these, but try to learn from them - some of the derivative works he's doing here mismatch this to a certain degree - the reason for this is down to outlining style (I used light-dependent outlines, often fading to nothing on highlit edges), and a general lack of volumetric shading on some of his work.
 
-Copyright/Attribution Notice: 
-It's not legally required but is very appreciated. Please credit Jetrel, Zabin, OpenPixelProject, Hyptosis, and Sharm.
+Please don't just use these - please learn what made them good, and try to pay it forward by creating your own inspiring art with whatever you learn from this.
+
+These are a set of assets I made for a fairly nebulous RPG/Tactics project; assuming life goes on without incident, I'll likely get around to making it in the future, but if that day comes, these will probably be a small subset of the actual art from the game, so I'm not really worried about thunder getting stolen.  Furthermore, it's nice to have what's here out in the wild, in case life doesn't go as planned, and I kick the bucket early.   At least then it gets used for something."
+-- Jetrel
