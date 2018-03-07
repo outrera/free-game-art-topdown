@@ -1,4 +1,4 @@
-Author: Jetrel, Zabin
+Author: Richard Kettering 'Jetrel', Zachariah Husiar 'Zabin', Hyptosis, Sharm, Open Pixel Project.
 License: CC-BY-SA 3.0, CC-BY-SA 4.0
 Origin: https://opengameart.org/content/zrpg-tiles
 
@@ -16,3 +16,6 @@ Please don't just use these - please learn what made them good, and try to pay i
 
 These are a set of assets I made for a fairly nebulous RPG/Tactics project; assuming life goes on without incident, I'll likely get around to making it in the future, but if that day comes, these will probably be a small subset of the actual art from the game, so I'm not really worried about thunder getting stolen.  Furthermore, it's nice to have what's here out in the wild, in case life doesn't go as planned, and I kick the bucket early.   At least then it gets used for something."
 -- Jetrel
+
+Copyright/Attribution Notice: 
+You must credit 95% Richard Kettering aka (Jetrel),Zachariah Husiar aka (Zabin), Hyptosis, Sharm and Open Pixel Project. You must also include a link to this submission.
