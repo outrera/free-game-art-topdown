@@ -1,5 +1,5 @@
-author: Jetrel, Zabin
-license: Public Domain (CC0)
+author: Jetrel, Zabin, Hyptosis, and Surt
+license: CC-BY-SA 3.0, CC-BY-SA 4.0
 source: https://opengameart.org/content/lots-of-trees-and-plants-from-oga-db32-tilesets-pack-1
 
 Here's the  start of a bunch of remixed tilesets recolored using my slightly extended DB32 color palette. I had to add a few colors :-P to be able to achieve a good conversion.
@@ -11,4 +11,4 @@ Everything here is CC0 public domain. This is mostly Jetrel's work and a few der
 Here's a link to where I post updates so you can see what I'm working on before it's finished, polished, and submitted. https://opengameart.org/forumtopic/my-favorite-oga-jrpg-tiles-remixed-db32wip
 
 Copyright/Attribution Notice: 
-NOT REQUIRED, though appreciated: credit goes 90% to Jetrel and the rest to Zabin, Hyptosis, and Surt and link back either to here or https://duskrpg.blogspot.com/
+Credit goes 95% to Jetrel and the rest to Zabin, Hyptosis, and Surt and you must provide a link back to this submission.
