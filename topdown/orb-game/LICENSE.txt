@@ -1,5 +1,5 @@
 author: syntax errol
-license: CC0 (Public Domain)
+license: Public Domain (СС0)
 origin: http://opengameart.org/content/orb-game-art
 
 
