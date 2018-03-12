@@ -1,4 +1,4 @@
-Author: Lanea Zimmerman "Sharm", capbros
+Author: Lanea Zimmerman "Sharm", Evert, capbros
 License: CC-BY, OGA-BY
 Origin: https://opengameart.org/content/tiny-16-expanded-character-sprites
 
@@ -26,5 +26,6 @@ Added sprites for female player.
 Update 3:
 
 Added Skeleton by Evert and bone by me.
+
 Copyright/Attribution Notice: 
 Not looking for any credit for this one myself, but you should should definitely credit Sharm (Lanea Zimmerman) for the originals and credit Evert for the nudes and skeleton.

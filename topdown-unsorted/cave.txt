@@ -1,0 +1,11 @@
+Author: Evert
+License: OGA-BY 3.0
+Origin: https://opengameart.org/content/top-down-cave-interior
+
+A (very) old cave interior tileset I made for a simple Gauntlet/Zelda inspired dungeon crawl. I recently went back to cleaning up the code (which was suffering from bitrot) and tweaking the art and thought I'd post this here for anyone else who might be interested. The perspective is classic 4-walls visible Zelda-style, which I haven't found a lot of here.
+
+The set contains two alternate floor tiles and wall tiles for all four directions, plus a border at the top. The order of the wall (and transition tiles) makes sense if you count the state of the neighbouring tiles (either straight or diagonal) as part of a bitmask to construct a 4-bit index, but I added a second arrangement that hopefully makes this a bit easier to see for those of us who don't normally think in binary.
+
+The set of 32 edge tiles covers many (but not all) cases, but it may make sense to break the transition tiles up into four 16x16 chunks and form the other combinations that way (which is what I did when making the graphics in the first place).
+
+I may come back to update this in the future as well.
