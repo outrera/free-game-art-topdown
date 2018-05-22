@@ -1,0 +1,5 @@
+Author: Jonas Klinger 'Skorpio'
+License: CC-BY-SA 3.0, GPL3
+Origin: https://opengameart.org/content/spaceships2-top-down
+
+Some new spaceships, fighters, and bombers in three different color schemes.

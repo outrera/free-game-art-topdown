@@ -1,0 +1,5 @@
+Author: Blindman67
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/rocks-ships-stars-gold-and-more
+
+Simple sprite sheet for asteroid type game. Bottom of image has sprite locations encoded in the image data which can be removed.

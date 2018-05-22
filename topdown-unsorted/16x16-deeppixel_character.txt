@@ -1,0 +1,8 @@
+author: Max 'Deeppixel'
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/mountain-hause-and-trees
+
+A mountain, nature set in 16x16 for old-school rpg and adventure games.
+
+Copyright/Attribution Notice: 
+You can use it the way you want, i dont need it anymore. Enjoy :)

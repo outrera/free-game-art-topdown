@@ -1,0 +1,8 @@
+author: zaphgames
+license: CC-BY 3.0
+origin: https://opengameart.org/content/molten-tileset
+
+This tileset was made for Orake Online, for a new lava based area where a minotaurs haunts the dungeons. It doesnt consist of walls, it's very simple, though there's tiles for different level of lava, and greek-ish pillars which can be used for decoration. Might add the spritesheet for the minotaur, if it's asked for. :)
+
+Copyright/Attribution Notice: 
+If it's used I'd like "zaphgames" in credits or somehow implementing it in your game. Maybe as an easter egg, or something. Other then that, enjoy!

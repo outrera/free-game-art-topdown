@@ -1,0 +1,6 @@
+Author: Jonas Klinger 'Skorpio'
+License: CC-BY-SA 3.0, GPL3
+Origin: https://opengameart.org/content/top-down-space-fighters
+
+Additional fighters, bombers and troop transports for my old spaceship pack. 
+

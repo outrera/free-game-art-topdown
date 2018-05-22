@@ -1,0 +1,8 @@
+Author: Miloslav Číž 'drummyfish' (http://www.tastyfish.cz)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/warmachine-sprite
+
+A simple sprite I made with GIMP, in four different colors.
+
+Copyright/Attribution Notice: 
+Attribution not required, but I'll be very glad if you do.

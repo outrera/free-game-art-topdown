@@ -1,0 +1,7 @@
+Author: Jonas Klinger 'Skorpio'
+License: CC-BY-SA 3.0, GPL3
+Origin: https://opengameart.org/content/lpc-skorpios-scifi-sprite-pack
+
+I made these sprites to give the coders a possiblity to make a game similar to Syndicate, Shadowrun (the Sega Genesis version) and GTA 1+2, or something completely different. :) Something that takes place in a dystopic future with an autoritarian regime of corporations and corrupt politicians.
+
+Unfortunately I didn't have time left to animate the Cutiebots in the last preview, but they could probably be used for a Pokemon-style game.

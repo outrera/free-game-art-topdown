@@ -1,0 +1,12 @@
+Author: Jonas Klinger 'Skorpio'
+License: CC-BY-SA 3.0, GPL3
+Origin: https://opengameart.org/content/space-ship-construction-kit
+
+Since modular space ships are so popular nowadays, I decided to cut an older set apart and create some modules on my own. I actually consider this set more as a basic construction kit and you probably have to do a little extra work to put the parts together. For some of the test ships I had to cut and paste, clone, erase and paint over a little bit to make the parts fit better. The colors of the results can easily be changed by altering the hue and saturation.
+
+Quick tip for GIMP users:
+Edit > Preferences > Tool Options > Set Layer or Path as active. This lets you select a layer with the move tool, then you can easily drag it to another document.
+
+I've also included the stars and nebulae that I used for the preview background, but they're nothing fancy. And there are some engine exhaust and muzzle flash/bullet sprites in the package.
+
+Is this related enough to 'outer space' to enter the Spaaaaaaace! challenge?

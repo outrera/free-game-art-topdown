@@ -1,0 +1,8 @@
+Author: Arrall Austin 'wubitog', Elance
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/2d-spaceship-parts
+
+Here are some CC0 ship parts. I hired an elance group to create them with the understanding that I would release them as CC0. I am not sure to list them as my own work or not(?) I was planning to put together a CC0 version of PartArt, but the cost per part is slowing me down. I'm also working more toward allowing people to import their own parts, rather than selecting from hard coded images.
+
+Attribution Instructions: 
+No attribution required.

@@ -1,0 +1,34 @@
+Author: CuddlyColin (https://cuddlycolin.itch.io/)
+License: CC-BY 4.0
+Origin: https://cuddlycolin.itch.io/fantasy-hex-tiles
+
+"Tehoata6 days ago
+Hi, is it ok for commercial use?
+Reply
+
+CuddlyColin6 days ago
+Of course! I would just love some mention in the credits and a link to what ever you make with them so I can share your work! :D"
+
+"CodeLoc208 days ago(+1)
+Hi, love the tiles! Are we really able to use these in our games?
+
+CuddlyColin 208 days ago
+Thanks so much, and of course! Just a little credit or link to my itch.io would be nice. I'd also love to see what ya do with them :D"
+
+4/29/18 - Added a left and right Port, a Light House, a Ruin, and a Cemetery hex.
+
+11/12/17 - Created the Rivers and Roads add-on to be used with the set, as well as updated the example tiled document to include the most recent changes.
+
+9/24/2017 - Added a borderless version of the tiles by request.
+
+1/15/2017 - Added a "Dense Forest/Jungle" tile, as well as cave overlay tiles for each biome in version 2. The example tiled file has been updated with examples of these.
+
+A collection of hexes for fantasy maps. Developed for use in a GURPs, I've included some of the basic tiles in the GURPs ruleset, including hilly and wooded versions the basic tiles.
+
+This tileset was made to use be used in Tiled set to Hexagonal orientation, with 32 tile width, 28 height, and 16 side length. There's also an offset of 2 on the Y axis in the tileset's properties.
+
+All of that is set up correctly in the example file, and you can get Tiled from itch.io here: https://thorbjorn.itch.io/tiled
+
+I'm still working on a roads and rivers set, as well as some additional overlay tiles like caves or ruins. I'm also working on whole new biomes, so if you have any suggestions or requests, please leave them in the comments!
+
+Payment not at all required, but all donations will go towards continuation of this hex set, and starting of interior sets.

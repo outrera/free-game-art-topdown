@@ -1,0 +1,15 @@
+Author: Luis Zuno (ansimuz.com)
+License: CC-BY 3.0
+Origin: https://ansimuz.itch.io/tiny-rpg-forest
+
+A complete Pixel Art Assets pack to build  a Top-Down RPG/Adventure  game out of the box.
+
+Features:
+
+    A Complete tileset at 16x16 pixels each tile to build your levels easily
+    A lot of different Objects to decorate your levels
+    Archer Player character  fully animated in 4 directions
+    2 different animated enemies: Treant and Mole
+    Waterfall animated, death animation, coins and gems
+    Playable Phaser Demo Code Included
+    Music by Pascal Belisle

@@ -1,0 +1,29 @@
+Author: Jason Perry 'finalbossblues' (https://finalbossblues.itch.io/)
+License: CC-BY 4.0
+Origin: https://finalbossblues.itch.io/dark-dimension-tileset
+
+This tileset is a FREE release for anybody to download. 
+
+This tileset is a mini-expansion for the Time Fantasy RPG assets. It's compatible with all other graphics that I release  in my Time Fantasy style. Can also be used as a standalone tileset.
+
+I created this set as a reward for reaching a goal on my Patreon page. Thanks to my wonderful patrons for making this free release possible! 
+
+To support my work and contribute towards more free releases in the future, check out the page here: www.patreon.com/finalbossblues 
+
+This set includes versions formatted for use in RPGMaker VX/Ace and RPGMaker MV, as well as a regular tile-sheet based on a 16x16 grid. Also includes animated character-sets for doors and floating debris.
+
+----
+
+These assets are made to fit with the other Time Fantasy asset packs:
+
+    Character Sprites
+    Fantasy Tileset pack
+    Monsters Sprite Pack
+    Winter Tiles Expansion
+    Dwarves vs Elves Sprite Pack
+    Animals Sprites Expansion
+    Ship Tileset
+
+----
+
+Check out the website at timefantasy.net for updates and freebies.

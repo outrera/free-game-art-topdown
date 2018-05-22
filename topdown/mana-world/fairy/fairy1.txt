@@ -1,0 +1,7 @@
+author: Lunovox
+license: GPL2, GPL3, CC-BY-SA 3.0
+origin: https://opengameart.org/content/sprite-de-fada-fairy
+
+ENGLISH: This is a fairy sprite developed by me for the open play The Mana World. Today I'mlooking for staff to help develop open a new game called Empire of Mana. Anyone interested, please contact me.
+
+BRASILEIREZ: Esse é um sprite de fada desenvolvido por mim para o jogo aberto The Mana World. Hoje estou procurando pessoal para me ajudar no desenvolvimento de um novo jogo aberto chamando Empire of Mana. Quem estiver interessado, favor entrar em contato comigo.

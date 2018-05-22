@@ -1,0 +1,8 @@
+Author: Mike Jackson 'jimbeamdiablo', Cameron 'cron' Fraser, Nikita Sadkov
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/simple-top-down-conveyor-belt
+
+A corner added to jimbeamdiablo's sprite.
+
+Attribution Instructions: 
+Conveyor Belt by Mike Jackson and Cameron 'cron' Fraser, Nikita Sadkov

@@ -1,0 +1,5 @@
+Author: Jonas Klinger 'Skorpio'
+License: CC-BY-SA 3.0, GPL3
+Origin: https://opengameart.org/content/spaceships-top-down
+
+Some top-down spaceships. They're heading to the right. ;) Enjoy!

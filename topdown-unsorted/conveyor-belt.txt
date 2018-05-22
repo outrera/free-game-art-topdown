@@ -1,0 +1,13 @@
+Author: Mike Jackson 'jimbeamdiablo', Cameron 'cron' Fraser
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/simple-top-down-conveyor-belt
+
+A very simple 120px by 120px top down conveyor belt sprite with seperate "zipper"
+
+They stack together nicely to extend the conveyor belt. The zipper was made to scroll along on top of the conveyor belt.
+
+Uses Metal Sign Post by Cameron 'cron' Fraser for the side rails.
+http://opengameart.org/content/metal-sign-post
+
+Attribution Instructions: 
+Conveyor Belt by Mike Jackson and Cameron 'cron' Fraser

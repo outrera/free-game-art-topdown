@@ -1,0 +1,5 @@
+author: arikel
+license: CC-BY-SA 3.0
+origin: https://opengameart.org/content/2d-rpg-character-walk-spritesheet
+
+A 2D RPG character walk spritesheet. I made this sprite for an RPG project that finally won't use it, and since i don't feel like working on it any more, i might as well send it here.

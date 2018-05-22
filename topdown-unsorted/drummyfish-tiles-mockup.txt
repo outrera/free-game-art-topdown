@@ -1,0 +1,10 @@
+Author: Miloslav Číž 'drummyfish' (http://www.tastyfish.cz)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/top-down-rpg-mockup-scene
+
+I once made this mockup RPG scene with GIMP. I'm posting it to maybe put it to some use. I tried to extract some sprites to save you time.
+
+If you like the work, you can support me via liberapay: https://liberapay.com/drummyfish.
+
+Copyright/Attribution Notice: 
+Attribution not required, but I'll be very glad if you do.

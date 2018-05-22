@@ -1,0 +1,7 @@
+Author: Jonas Klinger 'Skorpio'
+License: CC-BY-SA 3.0, GPL3
+Origin: https://opengameart.org/content/spaceship-tutorial-0
+
+This is the spaceship that I made for the spaceship tutorial: http://opengameart.org/content/spaceship-tutorial
+
+The colors are a bit different in the layered version and there's also a thin variant of the ship in the archive.

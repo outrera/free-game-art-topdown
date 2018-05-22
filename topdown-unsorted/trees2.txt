@@ -1,7 +1,0 @@
-author: isaiah658
-license: CC0 (Public Domain)
-origin: http://opengameart.org/content/pine-tree-16x16
-        http://opengameart.org/content/tree-16x16
-        
-Copyright/Attribution Notice: 
-Credit to isaiah658 is not required but appreciated.
