@@ -1,0 +1,18 @@
+authors: C-Dogs SDL Team
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/c-dogs-sdl-cc0-resources
+
+These are some CC0 licensed resources from the game C-Dogs SDL:
+
+https://cxong.github.io/cdogs-sdl/
+
+I manually went through the files, took only the ones under CC0 and made a tile (16 x 12) sheet from them. The sheet is compatible with tile editors such as Tiled.
+
+I also put the game font in the package as it is also CC0.
+
+Note that the floor and wall tiles are monochrome and are intended to be colored (take a look at the game screenshots).
+
+I am NOT the author of any of these resources, I merely redistribute them to make them more accessible. The author of most of these sprites is Cong Xu. Please support the original authors.
+
+Copyright/Attribution Notice: 
+No obligations, just think about letting the author know you use the resources: https://github.com/cxong/cdogs-sdl/blob/master/graphics/LICENSE.md

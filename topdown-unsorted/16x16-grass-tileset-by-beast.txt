@@ -1,0 +1,7 @@
+author: Beast
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/overworld-grass-biome
+
+The tileset was created as a commission and the client was so generous to allow me to release it on OpenGameArt.
+
+We decided to only focus on one biome, as such this doesn't contain any snow, mountains, deserts or beaches.
