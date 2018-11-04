@@ -1,0 +1,11 @@
+Author: sander 'castelonia'
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/lucerion-gameart
+
+Some old stuff from my first game i made. The animations are there for both walk and attack. I used the sprites as if from a top-down perspective. They are not really drawn in that perspective though, anyways maybe they are of use to someone.
+
+The game was submitted to the appstore, got maybe 100 downloads in two years, but still proud of it. The art used for the game is still here ofcourse, it is free to use. Please let me know if you like them and want more of it, I know I have quite some other stuff of it somewhere (especially soldier variations and animals) but I need to look for it.
+
+Now it is time for my next attempt to conquer the hearts of many, check it out here if you like
+
+https://sites.google.com/view/herodom/home

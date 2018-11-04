@@ -1,0 +1,15 @@
+Author: sander 'castelonia'
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/slippy-slide-assets
+
+Hi there,
+
+I recently "discovered" this awesome place that is OGA, and as an indie developer I am currently making an iOS game using the LPC assets. I have been thinking about sharing assets of other games I have done, as I want to give something back to OGA.
+
+I am not an artist myself, so all this work was commisioned.
+
+The set I share here is from my game Slippy Slide (iOS only) that is still freely available for download. This submission contains 5 characters and a set of tiles including placeables.
+
+https://itunes.apple.com/nl/app/slippy-slide/id911034356?mt=8
+
+In this game I use them to make those ice puzzles you might know from other games. But maybe you can do some completely different with it. If you like them, please let me know if you will use them somewhere!
