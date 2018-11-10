@@ -1,0 +1,13 @@
+Author: Howard 'Libz0rzz' (http://www.fantasytalesonline.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/tileset-and-characters-unfinished
+
+Just some stuff I was working on ages ago, but never finished them. Still need a lot of touch ups and fixing. It's not in a proper tileset, so you will need to pull stuff out if you want to use it efficiently.
+
+I do have layered versions of it, but they're a bit messy and are in .pyxel format. Can send them, if someone wants them and has pyxel edit.
+
+Youtube video with the tileset in use.
+
+https://www.youtube.com/watch?v=I6yWJra9p7Q
+
+ Use 'em however you like :)
