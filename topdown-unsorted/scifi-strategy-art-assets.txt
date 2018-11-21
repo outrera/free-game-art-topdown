@@ -1,0 +1,11 @@
+author: adaptive-shield-matrix (https://adaptive-shield-matrix.itch.io/)
+license: Public Domain (CC0)
+origin: https://adaptive-shield-matrix.itch.io/scifi-strategy-art-assets
+
+
+Motivation
+
+Art for a Sci-Fi Strategy Game what I wanted to do, but did not had the time and/or money to do.
+The art was bought by me on upwork.com and drawn by an artist, whose name/account I currently cannot find.
+I'm publishing this here so that someone else may have a better start / use for this art, which can be freely used with the CC0 license.
+Inspired by: Supreme Commander, Starcraft, Advance Wars 

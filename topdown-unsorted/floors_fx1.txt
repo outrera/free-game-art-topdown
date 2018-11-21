@@ -1,0 +1,5 @@
+author: hernandack (https://hernandack.itch.io/ http://twitter.com/hernandack)
+license: Royalty Free
+origin: https://hernandack.itch.io/floor-effects-set
+
+This is a set of 32x32px pixelart ground and floor effects that you can use on your game. No credits needed. I'll updating this later so don't forget to check it and follow or browse my other arts. Thanks.
