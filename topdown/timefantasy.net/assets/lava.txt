@@ -1,0 +1,7 @@
+Author: Jason Perry 'finalbossblues' (https://finalbossblues.itch.io/)
+License: CC-BY 4.0
+Origin: http://finalbossblues.com/timefantasy/freebies/lava-transition-animation/
+
+Hey guys! Sometimes you might want lava to melt into rock or vice versa. So here’s a small little animation that you can use with the time fantasy tiles.
+
+Here are the frames used for these animations. The first frame (the lava) and the last frame (the rock ground) are found in the Time Fantasy tilesets. I’ve arranged these into simple PNG files so you can split up and organize the frames however is best for you.

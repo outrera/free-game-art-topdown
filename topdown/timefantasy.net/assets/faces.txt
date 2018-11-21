@@ -1,0 +1,13 @@
+Author: Jason Perry 'finalbossblues' (https://finalbossblues.itch.io/)
+License: CC-BY 4.0
+Origin: http://finalbossblues.com/timefantasy/freebies/face-bases/
+
+
+A while ago I put a little bit of time into making facesets for Time Fantasy. Here is the base that I made. Free to use and edit.
+
+I’m not entirely happy with it, but I’m putting faces on hold for now (combat animations and/or new tiles are the priorities for the next releases). I always plan to release the base for free, even if I were to release a full face pack in the future for price. So I figure that I might as well release what I have so far so someone can get some use out of it. :)
+
+NOTE: These might appear blurry because they’re upscaled for the web. Click them to see them at the correct 100% size. Each face fits into a 32×32 tile.
+
+As for actual finished faces, I only made a few of these, here is what they look like. Mostly I was testing out the style (and ultimately wasn’t too happy with it). But if you want to use these faces then you can get the sheet here:
+

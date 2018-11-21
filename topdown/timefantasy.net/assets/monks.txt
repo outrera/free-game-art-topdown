@@ -1,0 +1,9 @@
+Author: Jason Perry 'finalbossblues' (https://finalbossblues.itch.io/)
+License: CC-BY 4.0
+Origin: http://finalbossblues.com/timefantasy/freebies/holy-meditating-monks/
+
+Hello! Here’s some new characters. Free for everyone!
+
+I’ve been reading a really fascinating book, an autobiography of a swami– and it gave me the inspiration to put these sprites together. It’s been a while since I’ve made some characters for a free release for everyone, and I thought that it would be in the spirit of these characters to do just that. I’m sure that lots of people will find a good use for these sprites!
+
+There are four characters. Each one has a regular full 4-directional walking sprite and a sitting meditation pose. They’re arranged in the standard 8-character sheet.

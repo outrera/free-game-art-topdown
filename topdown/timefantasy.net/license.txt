@@ -1,0 +1,9 @@
+Jordan Irwin November 21, 2017 at 5:22 am 
+http://finalbossblues.com/timefantasy/freebies/evil-transforming-vampires/
+
+Are these sprite sheets released under a specific license? I ask because I am looking for sprites that are compatible with a GPL licensed game project that I am part of. From the sound of the description, many of these sprites could be licensed under CC0/Public domain? I just need to make sure that I don’t add any artwork to the game that isn’t compatible with the GPL.
+
+
+Jason November 21, 2017 at 5:26 am
+For my free bonus releases like this, no specific license but no real restrictions either. So yes, that is fine.
+

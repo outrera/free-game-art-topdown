@@ -1,0 +1,13 @@
+Author: Jason Perry 'finalbossblues' (https://finalbossblues.itch.io/)
+License: CC-BY 4.0
+Origin: http://finalbossblues.com/timefantasy/freebies/kitchen-tiles/
+
+Woop woop. Indie Game Maker contest starts this week. Some people might be using the Time Fantasy tiles, so I figure it’s time for a freebie.
+
+Crazetex on the RPG Maker Web forums wrote a helpful little review on the pack with some suggestions, and matrexsvigil on twitter also suggested kitchen stuff too. So I threw these together: It’s kitchen countertop stuff that matches the interior tilesets in Time Fantasy set 1.
+
+These are loose tiles, so in order to use them in RMVX/Ace, you’ll have to edit them into a tileset. They’re already arranged in alligned 32×32 tiles.
+
+To edit these or use them in RM2K3, just shrink them by 50% in an image editing program. Make sure to check “nearest neighbor” to keep the pixels clean.
+
+Enjoy.

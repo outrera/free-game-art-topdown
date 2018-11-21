@@ -1,0 +1,11 @@
+Author: Jason Perry 'finalbossblues' (https://finalbossblues.itch.io/)
+License: CC-BY 4.0
+Origin: http://finalbossblues.com/timefantasy/freebies/pink-trees/
+
+Hey guys. These trees are actually old- I made them when I was developing the Time Fantasy style. I found them while looking through my TF stuff, and realized that I haven’t release these. So here we go!
+
+As usual, these are arranged in a 16×16 grid and should be easy to pop into any tileset.
+
+The above trees are the 1x regular version. If you’re using these in RPG Maker, the upscaled version will fit the Time Fantasy resources:
+
+Have fun. See you next time.

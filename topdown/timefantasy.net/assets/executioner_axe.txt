@@ -1,0 +1,9 @@
+Author: Jason Perry 'finalbossblues' (https://finalbossblues.itch.io/)
+License: CC-BY 4.0
+Origin: http://finalbossblues.com/timefantasy/freebies/executioner-sprite/
+
+Hello! Here’s a new sprite. It’s a freebie for everyone!
+
+This is a small release that I made to go with yesterday’s patron release: gallows tiles add-on.
+
+Note: If you’re using RPG Maker, you’ll want to add a “$” to the beginning of the filename so it works properly as a single sheet. Animate the axe sheet by rotating him down/left/right/up.

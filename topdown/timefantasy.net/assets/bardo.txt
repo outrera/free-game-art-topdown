@@ -1,0 +1,9 @@
+Author: Jason Perry 'finalbossblues' (https://finalbossblues.itch.io/)
+License: CC-BY 4.0
+Origin: http://finalbossblues.com/timefantasy/freebies/bard-character-with-animations/
+
+This is a big one, because he comes with a bunch of extra animations:
+
+There’s two versions of his regular walking sprite– with and without the guitar. Then you have the four emotion animations set up like previous releases. I’ve included two animations for doing bard stuff: playing the guitar and playing a flute. And of course the down sprite will always be useful. I hope that with all these animations, this guy will find a useful role in your game world!
+
+Since I haven’t released a freebie in a while, I’ve decided that this sprite will be a free download for everybody, even non-patrons.

@@ -1,0 +1,9 @@
+Author: Jason Perry 'finalbossblues' (https://finalbossblues.itch.io/)
+License: CC-BY 4.0
+Origin: http://finalbossblues.com/timefantasy/freebies/down-sprite-base/
+
+Hello friends!
+
+I’ve begun creating downed/dead/sleeping/KO/etc poses for characters in the Time Fantasy asset packs. I start by making a “base”– I’m releasing that base today for free. If anybody is working in the Time Fantasy style, you can use these based to make downed sprites for your characters.
+
+I’ll have some full downed sprites, based on the existing TF character sprites, in the upcoming weeks. Until then. :)
