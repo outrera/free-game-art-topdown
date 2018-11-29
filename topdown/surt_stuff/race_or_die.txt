@@ -1,0 +1,5 @@
+Author: Carl Olsson 'surt'
+License: CC-BY 3.0, GPL 3.0, GPL 2.0
+Origin: http://opengameart.org/content/race-or-die
+
+Some sprites for bart's PDJ non-entry.

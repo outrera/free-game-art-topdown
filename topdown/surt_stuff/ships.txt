@@ -1,0 +1,6 @@
+Author: Carl Olsson 'surt'
+License: CC-BY-SA 3.0, GPL 3.0, GPL 2.0
+Origin: http://opengameart.org/content/shmup-ships
+
+
+Ship sprites made for Aperico's (http://www.aperico.com/ ) Android shmup Stardust Battle: https://play.google.com/store/apps/details?id=com.aperico.android.stardust

@@ -1,0 +1,16 @@
+Author: Carl Olsson 'surt'
+License: CC-BY 4.0, CC-BY 3.0, GPL 3.0, GPL 2.0
+Origin: http://opengameart.org/content/masquerade
+
+Concept:
+Action adventure puzzler.
+Usurper seizes the planet's aristocracy during the Grand Masquerade Ball, enslaving all attendees with the enigmatic Masks.
+Your enslavement doesn't go as planned, and you retain your will, but lose your self.
+Taking advantage of your immunity from the enslaving power of the Masks you use each type of Mask's special abilities to fight the Usurper's enslaved minions and free your planet.
+Wearing a Mask you take on that Mask's form and abilities, becoming non-threatening to slaves of that Mask type.
+The Pearl Mask gives you the form of the Pearl Faces, the cannon fodder of the Mask slaves (allowing you to pass them without them attacking you).
+On contact with a Shadow Mask you are transformed into a ethereal form that allows you to pass through obstacles, but you are unable to interact with your surroundings until you "remove" the Shadow Mask by touching a Shadow Mask again and return to your prior state (works like a slow teleport between Shadow Masks, and useful for reconnaissance).
+
+Using ptoing's C64 palette.
+
+Note: tiles were tweaked some for more efficient tiling but I was to lazy to update the mockup.

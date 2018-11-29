@@ -1,0 +1,5 @@
+author: Carl Olsson 'surt'
+license: CC-BY 3.0, GPL 3.0, GPL 2.0
+source: http://opengameart.org/content/loveable-rogue
+
+Simple NES-like roguelike assets.

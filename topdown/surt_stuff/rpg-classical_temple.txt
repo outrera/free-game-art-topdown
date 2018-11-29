@@ -1,0 +1,5 @@
+Author: Carl Olsson 'surt'
+License: CC-BY 4.0, CC-BY 3.0, GPL 3.0, GPL 2.0
+Origin: http://opengameart.org/content/classical-temple-tiles
+
+16x16 tiles for Parthenon-like temple in maintained and ruined forms.

@@ -1,0 +1,5 @@
+Author: Carl Olsson 'surt'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/town-tiles
+
+Fantasy town tiles. Made for Pixelation's Tiny Town Challenge.

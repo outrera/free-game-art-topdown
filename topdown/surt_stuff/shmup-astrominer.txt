@@ -1,0 +1,5 @@
+Author: Carl Olsson 'surt'
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/astrominer-sprites
+
+Sprites for a top-down 360 degree space shooter. Meant to be recoloured in-game.

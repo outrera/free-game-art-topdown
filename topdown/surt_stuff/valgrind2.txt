@@ -1,0 +1,9 @@
+Author: Carl Olsson 'surt'
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/some-other-8-bit-vertical-shooter-assets
+
+Was supposed to be an expansion on usr_share's Some 8-bit vertical shooter tiles but drifted away from the styling of the original and so doesn't really fit anymore.
+
+Contains some elements from usr_shares's original submission.
+
+(R2: now also contains usr_share's new "title screen".)

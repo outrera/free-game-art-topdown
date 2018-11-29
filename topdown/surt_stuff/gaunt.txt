@@ -1,0 +1,5 @@
+author: Carl Olsson 'surt'
+license: Public Domain (CC0)
+source: https://opengameart.org/content/gauntlet-like-tiles
+
+Tiles and templates for a gauntlet-like game
