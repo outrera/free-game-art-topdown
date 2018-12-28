@@ -1,0 +1,7 @@
+Author: Mandi Paugh
+License: CC-BY 3.0, CC-BY-SA 3.0, GPL2, GPL3
+Source: https://opengameart.org/content/sara-wizard
+
+A fighting sprite of a female spellcaster.
+
+Attribution instuctions:  You must include a link to http://opengameart.org in your credits along with the author's name.

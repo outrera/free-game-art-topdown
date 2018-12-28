@@ -1,0 +1,5 @@
+Authors: G-Brothers
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/beehive-interior-tileset
+
+Tileset made for RPG Maker 2000/2003. Can also be used for other engines of course.

@@ -1,0 +1,10 @@
+Author: Josh Maines 'Tap' (joshmaines.com tapskill.com)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/old-man-32x32-overflow-sprite-from-lightstone
+
+This is an overflow sprite, meaning it is meant to fit into a square but have the illusion of depth that allows it to poke out from the top of the square.  I did not give him walking animations, because in the game I was making him for, he does not move.  If you want walking animations for this character, consider commissioning me!
+
+If you have a game project that needs custom art, let me know what you are looking for.  I may be able to work out a deal with you, or I may already be working on similar art.  Good luck with your game projects!
+
+Attribution Instructions: 
+I do not require credit for this, but I would appreciate any mention of my work as "by Josh Maines" or "by TapSkill". Thanks.

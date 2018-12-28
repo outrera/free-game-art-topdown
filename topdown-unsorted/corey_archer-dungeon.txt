@@ -1,0 +1,8 @@
+author: Corey Archer
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/rpg-dungeon-package
+
+this is a combination of all my Dungeon works. including a third. the first is a simple aqua coloured dungeon the second is a upgrade of the first the second contains: pits extra door tops redesigned floor more colours and the third is the second tile set coloured to fit the first so you can create a more advanced version of the first dungeon design.
+
+Copyright/Attribution Notice: 
+credit is not required however it is advised. I only ask that I see the final project. thanks.

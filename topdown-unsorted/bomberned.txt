@@ -1,0 +1,8 @@
+Author: devnewton <devnewton@bci.im> (http://bci.im/)
+License: CC-BY-SA 4.0
+Origin: https://opengameart.org/content/bomberned-sprites
+
+Sprites from my game http://play.bci.im/bomberned/
+
+Copyright/Attribution Notice: 
+devnewton@bci.im

@@ -1,0 +1,11 @@
+Author: voec (https://twitter.com/notbanachtarski)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/mythical-ruins-tileset
+
+A 32x32 pixel muted tileset. This is a remix of some old (game) art ideas, reworked and extended with some new stuff.
+
+I would not consider this tileset to be fully polished or even complete, perhaps rather as a base theme for you to build upon and extend.
+I am open to updating this though, so if you have any suggestions, request or want to contribute please let me know.
+
+Copyright/Attribution Notice: 
+An attribution note is appreciated but not necessary. You can credit me as "voec". If you end up using_remixing this I'd love to hear from you. :)

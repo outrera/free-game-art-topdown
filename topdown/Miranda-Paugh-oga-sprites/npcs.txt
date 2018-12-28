@@ -1,0 +1,5 @@
+Author: Mandi Paugh
+License: CC-BY-SA 3.0
+Source: https://opengameart.org/content/fantasy-rpg-npcs
+
+Various NPC sprites.

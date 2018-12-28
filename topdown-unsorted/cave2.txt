@@ -1,0 +1,11 @@
+Author: Thorbjørn Lindeijer 'bjorn'
+License: GPL2
+Origin: https://opengameart.org/content/cave-tileset-1
+
+A cave tileset that was drawn for Cave Adventure, a short game made for a MiniRPG competition organized on RPGDX in 2003. Contributors to this tileset were me, my brother (known as Modanung) and Georg.
+
+* Game profile page with download
+http://rpgdx.net/showgame.php?project_id=142
+
+* CVS repository with sources and other art
+http://moeng.cvs.sourceforge.net/viewvc/moeng/CaveAdventure/

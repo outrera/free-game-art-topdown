@@ -1,0 +1,19 @@
+Author: http://www.buko-studios.com/, Commissioned by PlayCraft: www.playcraftapp.com
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/red-dragon
+
+Red Dragon Flying Sprite for PlayCraft.  Four directions, attack, move, hit.  Quite easy to figure out animation sequence.  Drawn in LPC viewpoint.
+
+More to come.
+
+PlayCraft - Make your ARPG on your mobile.
+
+https://itunes.apple.com/us/app/playcraft/id1097458476?ls=1&mt=8
+
+ 
+
+Submitted on behalf of Buko Studios, Commissioned work.
+
+ 
+Copyright/Attribution Notice: 
+Credits to http://www.buko-studios.com/ Commissioned by PlayCraft: www.playcraftapp.com
