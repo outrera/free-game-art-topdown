@@ -1,0 +1,8 @@
+authors: Rodrimanu360
+license: CC-BY 4.0
+origin: https://opengameart.org/content/hospital-topdown-perspective-2d-pixel-art
+
+This is all the art we made as part of a videogame we made for our 2º course final project, you can check the game out here: https://fireexitinteractive.wixsite.com/firexitinteractive
+
+Thank you all, and hope you like it!! ^^ 
+
